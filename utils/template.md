@@ -1,10 +1,10 @@
 # TITLE GOES HERE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 <!-- DESCRIPTION GOES HERE -->
 
 <!-- license badge -->
-
 
 ## Table of Contents
 * [Installation](#Installation)

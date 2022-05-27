@@ -38,7 +38,9 @@ const questions = [
         type: 'list',
         message: 'Select License',
         name: 'license',
-        choices: ["MIT License", "License 2", "License 3"]
+        choices: ["MIT", "License 2", "License 3"],
+        validate: (value=>{ if (value){return 'i need a value to continue'}
+        })
     },
     {
         type: 'input',
@@ -57,8 +59,9 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     const template = generateMarkdown(data)
-    fs.writeFile(fileName, template);
-    // write to file input (fileName, template)
+    fs.writeFile(fileName, template, (err) =>
+    err ? console.error(err) : console.log('Success!')) ;
+      // write to file input (fileName, template)
     console.log(template)
 }
 
@@ -66,7 +69,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then(answers => {
 
-        writeToFile("README.md", answers)
+        writeToFile("./Output/README.md", answers)
     })
 }
 
