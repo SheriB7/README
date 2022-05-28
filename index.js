@@ -38,7 +38,7 @@ const questions = [
         type: 'list',
         message: 'Select License',
         name: 'license',
-        choices: ["MIT", "License 2", "License 3"],
+        choices: ["MIT", "GNU", "Mozilla"],
         validate: (value=>{ if (value){return 'i need a value to continue'}
         })
     },
