@@ -1,12 +1,11 @@
 
-  # Tile of Project
+  # Title of Project
     
 
 ## Description
-Introduction
+Describing 
 
-[![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU), 
-    [![License: GNU](https://img.shields.io/badge/License-GNU-blue.svg)](https://opensource.org/licenses/GNU), [![License: GNU](https://img.shields.io/badge/License-GNU-brightgreen.svg)](https://opensource.org/licenses/GNU)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Table of Contents
@@ -19,20 +18,23 @@ Introduction
 
 
 ## Installation
-No Installation at this time
+Nothing to install
 
 
 ## Usage
-No Uses
+No Usage
 
 ## License
-GNU
+ GNU
+
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0), 
+ [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Contributing
-No contributors
+No helpers
 
 ## Tests
-No Testing
+No Test
 
 ## Questions
 [contact me](https://example@.com)
