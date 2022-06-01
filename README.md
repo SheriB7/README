@@ -39,8 +39,4 @@ Contact Information
 ```
 https://github.com/SheriB7
 Sherib70@gmail.com
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> b689024a58ae2cfc7e18ad45bcf64ea998adf76f
