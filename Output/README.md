@@ -1,9 +1,9 @@
 
-  # Title of Project
+  # Project
     
 
 ## Description
-Describing 
+fun
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,11 +18,11 @@ Describing
 
 
 ## Installation
-Nothing to install
+instuct to do
 
 
 ## Usage
-No Usage
+none
 
 ## License
  GNU
@@ -31,13 +31,13 @@ No Usage
  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Contributing
-No helpers
+me
 
 ## Tests
-No Test
+No test
 
 ## Questions
-[contact me](https://example@.com)
+[contact me](https://example@gmail.com)
 
 
-[github profile](https://github.com/example)
+[github profile](https://github.com/rufus@gmail)
